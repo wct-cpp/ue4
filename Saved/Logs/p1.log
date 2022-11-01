@@ -4248,3 +4248,195 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.01-15.24.29:464][163]LogContentValidation: Display: 正在验证Blueprint /Game/Player/new/PLayer.PLayer
 [2022.11.01-15.24.29:464][163]LogContentValidation: Display: 正在验证SkeletalMesh /Game/Sword_Animations/Demo/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
 [2022.11.01-15.24.29:464][163]LogContentValidation: Display: 正在验证World /Game/Map/NewMap.NewMap
+[2022.11.01-15.27.44:222][495]LogEditorTransaction: Undo 创建引脚连接
+[2022.11.01-15.27.44:375][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.44:378][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.44:382][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.44:538][496]LogEditorTransaction: Undo 添加节点
+[2022.11.01-15.27.44:668][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.44:672][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.44:675][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.44:677][496]LogEditorTransaction: Undo 添加节点
+[2022.11.01-15.27.44:836][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.44:840][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.44:844][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.45:126][497]LogEditorTransaction: Undo 创建引脚连接
+[2022.11.01-15.27.45:250][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.45:254][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.45:256][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:065][538]LogEditorTransaction: Undo 添加节点
+[2022.11.01-15.27.46:192][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:196][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:199][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:321][540]LogEditorTransaction: Undo 创建引脚连接
+[2022.11.01-15.27.46:464][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:467][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:470][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:527][541]LogEditorTransaction: Undo 创建引脚连接
+[2022.11.01-15.27.46:709][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:711][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:714][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:716][541]LogEditorTransaction: Undo 删除当前选项
+[2022.11.01-15.27.46:875][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:880][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.46:882][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.47:585][569]LogEditorTransaction: Undo 移动节点
+[2022.11.01-15.27.47:716][569]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.47:719][569]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.47:721][569]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.48:176][589]LogEditorTransaction: Undo 删除当前选项
+[2022.11.01-15.27.48:309][589]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.48:312][589]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.27.48:315][589]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:101][379]LogEditorTransaction: Redo 删除当前选项
+[2022.11.01-15.28.02:243][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:247][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:249][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:466][380]LogEditorTransaction: Redo 移动节点
+[2022.11.01-15.28.02:603][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:606][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:609][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:610][380]LogEditorTransaction: Redo 删除当前选项
+[2022.11.01-15.28.02:738][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:742][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:744][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:746][380]LogEditorTransaction: Redo 创建引脚连接
+[2022.11.01-15.28.02:913][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:917][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:919][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.02:921][380]LogEditorTransaction: Redo 创建引脚连接
+[2022.11.01-15.28.03:081][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:085][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:088][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:089][380]LogEditorTransaction: Redo 添加节点
+[2022.11.01-15.28.03:255][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:259][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:262][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:264][380]LogEditorTransaction: Redo 创建引脚连接
+[2022.11.01-15.28.03:417][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:421][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:423][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:425][380]LogEditorTransaction: Redo 添加节点
+[2022.11.01-15.28.03:591][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:595][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:598][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:601][380]LogEditorTransaction: Redo 添加节点
+[2022.11.01-15.28.03:758][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:762][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:765][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:767][380]LogEditorTransaction: Redo 创建引脚连接
+[2022.11.01-15.28.03:930][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:934][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.28.03:937][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.29.14:849][134]LogEditorTransaction: Undo 创建引脚连接
+[2022.11.01-15.29.14:982][134]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.29.14:985][134]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.29.14:988][134]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.29.15:745][165]LogEditorTransaction: Undo 移动节点
+[2022.11.01-15.29.15:871][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.29.15:874][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.29.15:877][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.29.16:576][201]LogEditorTransaction: Undo 删除当前选项
+[2022.11.01-15.29.16:703][201]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.29.16:707][201]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.29.16:712][201]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.01-15.30.09:985][201]BlueprintLog: New page: 编译newAnim_TPC_Base
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:ExecuteUbergraph_newAnim_TPC_Base:01EB
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 As PLayer
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:ExecuteUbergraph_newAnim_TPC_Base:0275
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:ExecuteUbergraph_newAnim_TPC_Base:033E
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:ExecuteUbergraph_newAnim_TPC_Base:04B7
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:ExecuteUbergraph_newAnim_TPC_Base:04E9
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 As PLayer
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:ExecuteUbergraph_newAnim_TPC_Base:056A
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 As PLayer
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:ExecuteUbergraph_newAnim_TPC_Base:059C
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 As PLayer
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:ExecuteUbergraph_newAnim_TPC_Base:06E5
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 As PLayer
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:ExecuteUbergraph_newAnim_TPC_Base:0717
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 As PLayer
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:AnimationCheck:01F8
+[2022.11.01-15.30.10:020][201]LogScript: Warning: “无访问”正在尝试读取属性 As PLayer
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:AnimationCheck:004E
+[2022.11.01-15.30.10:020][201]LogScript: Warning: 无访问
+	newAnim_TPC_Base_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.newAnim_TPC_Base_C_8
+	Function /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base_C:AnimationCheck:0063
+[2022.11.01-15.30.10:122][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.11.01-15.30.11:062][249]LogTemp: Repeating last play command: 选中的视口
+[2022.11.01-15.30.11:070][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.01-15.30.11:070][249]PIE: New page: PIE会话：NewMap（2022年11月2日 上午7:30:11）
+[2022.11.01-15.30.11:071][249]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2022.11.01-15.30.11:088][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016328s)
+[2022.11.01-15.30.11:088][249]LogAIModule: Creating AISystem for world NewMap
+[2022.11.01-15.30.11:089][249]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.11.01-15.30.11:089][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.017454s)
+[2022.11.01-15.30.11:113][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.11.01-15.30.11:114][249]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2022.11.01-15.30.11:114][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.01-15.30.11:114][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.01-15.30.11:114][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.01-15.30.11:114][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.01-15.30.11:114][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.01-15.30.11:114][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.01-15.30.11:114][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.01-15.30.11:114][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.01-15.30.11:115][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.01-15.30.11:115][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.01-15.30.11:115][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.01-15.30.11:115][249]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.01-15.30.11:120][249]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.01-15.30.11:120][249]LogAudioMixer: Display: 1: FrontRight
+[2022.11.01-15.30.11:128][249]LogAudioMixer: Display: Using Audio Device 耳机 (小可爱)
+[2022.11.01-15.30.11:128][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.01-15.30.11:128][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.01-15.30.11:128][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.01-15.30.11:128][249]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.01-15.30.11:128][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.01-15.30.11:128][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.01-15.30.11:129][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.01-15.30.11:129][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.01-15.30.11:129][249]LogInit: FAudioDevice initialized.
+[2022.11.01-15.30.11:129][249]LogAudio: Display: Audio Device (ID: 50) registered with world 'NewMap'.
+[2022.11.01-15.30.11:171][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-15.30.11:171][249]LogLoad: Game class is 'GameModeBase'
+[2022.11.01-15.30.11:174][249]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.11.01-23.30.11
+[2022.11.01-15.30.11:175][249]LogWorld: Bringing up level for play took: 0.003143
+[2022.11.01-15.30.11:175][249]LogOnline: OSS: Creating online subsystem instance for: :Context_112
+[2022.11.01-15.30.11:177][249]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.01-15.30.11:181][249]PIE: 登陆的服务器
+[2022.11.01-15.30.11:181][249]PIE: PIE总开始时间：0.113秒。
+[2022.11.01-15.30.18:749][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-15.30.18:749][557]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_NewMap
+[2022.11.01-15.30.18:750][557]LogSlate: Window 'p1预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.11.01-15.30.18:768][557]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-15.30.18:769][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-15.30.18:802][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.01-15.30.18:809][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-15.30.18:842][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.01-15.30.18:843][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.01-15.30.18:849][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.11.01-15.30.18:865][558]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2022.11.01-15.30.24:240][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/new/newAnim/newAnim_TPC_Base" FILE="../../../../Ue4 Projects/p1/Content/Player/new/newAnim/newAnim_TPC_Base.uasset" SILENT=true
+[2022.11.01-15.30.24:313][868]LogSavePackage: Moving '../../../../Ue4 Projects/p1/Saved/newAnim_TPC_Base89EA647B4D96EFDD9A3731ADD0C9AEA7.tmp' to '../../../../Ue4 Projects/p1/Content/Player/new/newAnim/newAnim_TPC_Base.uasset'
+[2022.11.01-15.30.24:325][868]AssetCheck: New page: 资产保存：newAnim_TPC_Base
+[2022.11.01-15.30.24:325][868]LogContentValidation: Display: 正在验证AnimBlueprint /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base
+[2022.11.01-15.30.57:100][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/new/newAnim/newAnim_TPC_Base" FILE="../../../../Ue4 Projects/p1/Content/Player/new/newAnim/newAnim_TPC_Base.uasset" SILENT=true
+[2022.11.01-15.30.57:170][811]LogSavePackage: Moving '../../../../Ue4 Projects/p1/Saved/newAnim_TPC_Base4C1AFC8B49EA9A019C639FBFBFB9D4BC.tmp' to '../../../../Ue4 Projects/p1/Content/Player/new/newAnim/newAnim_TPC_Base.uasset'
+[2022.11.01-15.30.57:183][811]AssetCheck: New page: 资产保存：newAnim_TPC_Base
+[2022.11.01-15.30.57:183][811]LogContentValidation: Display: 正在验证AnimBlueprint /Game/Player/new/newAnim/newAnim_TPC_Base.newAnim_TPC_Base
